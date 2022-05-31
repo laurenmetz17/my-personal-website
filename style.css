@@ -1,25 +1,45 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color:white;
+
+}
+
 body {
-    background:whitesmoke;
+    background-color:#abdbe3;
+    background-image:linear-gradient(to right,#76b5c5 ,#eeeee4)
+
 }
 
-.identifiers {
-    text-align:center;
+#name {
+    font-size:xx-large;
+    text-align:left;
+    padding-left:10%;
+    padding-top:100px;
 }
 
-img {
+#pronouns {
+    text-align:left;
+    padding-left:10%;
+}
+
+#hello {
+    width:400px;
+    padding-left:10%;
+}
+
+#headshot {
     width:350px;
     border-radius: 10px;
     border-color:black;
     float:right;
+    padding-right:10%;
+    padding-top:100px;
+
 }
 p {
     text-align:left;
     font-size: larger;
-    padding-top: 20px;
-    padding-left:200px;
-}
-
-p#educationalbackground {
-    padding-top:70px;
-
+    padding-left:10%;
+    
 }
