@@ -1,3 +1,25 @@
 body {
-    background:blue;
+    background:whitesmoke;
+}
+
+.identifiers {
+    text-align:center;
+}
+
+img {
+    width:350px;
+    border-radius: 10px;
+    border-color:black;
+    float:right;
+}
+p {
+    text-align:left;
+    font-size: larger;
+    padding-top: 20px;
+    padding-left:200px;
+}
+
+p#educationalbackground {
+    padding-top:70px;
+
 }
